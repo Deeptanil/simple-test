@@ -22,3 +22,7 @@ This is a python run program using csv files. It takes user inputs (answers) and
 5. Review the test.
    
    ![image](https://github.com/Deeptanil/simple-test/assets/86883566/5adc5494-8a60-45e9-9ca8-b2fb558fa640)
+
+
+**How to use:**
+A example has been uploaded which can be used to understand the code. "exampletest.csv" is the users inputs (answers) and mathak are the correct answers to the said user input questions.
