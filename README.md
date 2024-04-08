@@ -2,7 +2,6 @@
 
 
 This is my first project. I was giving mock tests and considered making it (procatination) and it seems to work really well.
-
 This is a python run program using csv files. It takes user inputs (answers) and stores them in a (.csv) file. Then using an exisiting answer key file it checks the answers and shows all mistakes and gives a total marks.
 
 
